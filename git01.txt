@@ -2,3 +2,4 @@
 主干操作
 添加一行验证origin pull是否会影响dev local
 master增加一行验证是否能push到dev
+必须先提交才能push?
